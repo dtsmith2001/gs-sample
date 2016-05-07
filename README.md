@@ -1,2 +1,1 @@
-# gs-sample
-General Assembly Sample Teaching
+Sample Teaching
