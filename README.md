@@ -1,4 +1,4 @@
-Sample Teaching
+# Sample Teaching
 
 I applied for a part-time job teaching Data Science and was asked to produce some sample lessons. However, I decided not to pursue the opportunity for personal reasons.
 
